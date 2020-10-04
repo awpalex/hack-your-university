@@ -28,4 +28,5 @@ Note: This list is not an invitation to hack any of the listed universities. Ens
 | Karlsruhe Institute of Technology    | VDP        | None      | https://www.kit.edu/.well-known/security.txt                 |                                          |
 | Embry–Riddle Aeronautical University | VDP        | None      | https://erau.edu/.well-known/security.txt                    |                                          |
 | Lyon College                         | VDP        | None      | https://www.lyon.edu/.well-known/security.txt                |                                          |
-
+| Berkeley                             | VDP        | None      | https://security.berkeley.edu/vulnerability-disclosure-program | Only open to current UC Berkeley students, faculty and staff and researchers. |
+| York                                 | VDP        | None      | https://www.york.ac.uk/it-services/security/vulnerability-disclosure/ |                                          |
